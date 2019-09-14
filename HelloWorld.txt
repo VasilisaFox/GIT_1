@@ -1,4 +1,5 @@
-Print("Hello World!"):
-Print("Hello"):
-Print("Hello my dear friend"):
-Print("Glad to see you"):
+<<<<<<< HEAD
+Print("Hello World;"):
+Print("Hello;"):
+Print("Hello my dear friend;"):
+Print("Glad to see you;"):
